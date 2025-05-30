@@ -1,16 +1,16 @@
 # Plotly
-Jus a practice to get the hang of the plotly library specifically the **plotly.express** and **plotly.graph_objects**.
-Data analysis with plotly as major visualisation library,  matplotlib, pandas numpy and streamlit
+Just a practice to get the hang of the plotly library, specifically the **plotly.express** and **plotly.graph_objects**.
+Data analysis with plotly as a major visualisation library,  matplotlib, pandas, numpy and streamlit
 
 ## setup
-### To run this first setup an a virtual environment:
+### To run this, first set up a virtual environment:
 ```python
 python -m venv .venv
 ```
 ## Then activate:
 ### For Linux 
 ```python
-source .venv/bin/activate # for linux
+source .venv/bin/activate # for Linux
 ```
 ### For Windows
 ```python
@@ -18,16 +18,16 @@ source .venv/bin/activate # for linux
 ```
 
 ## Install necessary libraries:
-### For windows
+### For Windows
 ```bash
 pip install -r requirements.txt
 ```
 
 OR 
 
-### For linux 
+### For Linux 
 ```bash
-pip3 install -r reuirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Run the **Streamlit App**
