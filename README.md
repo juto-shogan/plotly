@@ -14,7 +14,7 @@ source .venv/bin/activate # for Linux
 ```
 ### For Windows
 ```python
-.venv/Scripts/activate
+.venv/Scripts/activate # For Windows
 ```
 
 ## Install necessary libraries:
